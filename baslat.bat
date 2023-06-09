@@ -1,5 +1,5 @@
 @echo off
-title REGISTER BOT
+title INVITE BOT WITH V14
 :start
 cls
 node index.js
