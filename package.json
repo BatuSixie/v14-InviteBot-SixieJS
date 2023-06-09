@@ -1,0 +1,19 @@
+{
+  "name": "incv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SixieJS",
+  "license": "ISC",
+  "dependencies": {
+    "@androz2091/discord-invites-tracker": "^1.2.3",
+    "@discordjs/rest": "^1.7.1",
+    "discord.js": "^14.11.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "quick.db": "^7.1.3"
+  }
+}
